@@ -31,7 +31,7 @@ each op through a pipe only after it is durable. The parent:
 3. reconstructs the expected state for ops `0..last_acked` and verifies
    every key, allowing only the single in-flight op to differ.
 
-**Result: 30/30 rounds clean, 174,373 acked ops, zero lost or corrupted
+**Result: 30/30 rounds clean, 179,008 acked ops, zero lost or corrupted
 writes** (`results/crash.log`). The tiny memtable threshold (16 KB) forces
 flushes and compactions to be in progress at kill time in nearly every round.
 
