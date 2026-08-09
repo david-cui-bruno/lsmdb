@@ -1,0 +1,8 @@
+{
+  "put_synced": {"n": 5000, "seconds": 0.120, "ops_per_sec": 41826},
+  "put_unsynced": {"n": 100000, "seconds": 0.152, "ops_per_sec": 659114},
+  "get_memtable": {"n": 20000, "hits": 20000, "ops_per_sec": 6938722, "avg_us": 0.14},
+  "get_l0": {"n": 20000, "hits": 20000, "ops_per_sec": 151629, "avg_us": 6.60},
+  "get_l1": {"n": 20000, "hits": 20000, "ops_per_sec": 150879, "avg_us": 6.63},
+  "recovery": {"wal_records": 100000, "seconds": 0.034, "records_per_sec": 2942825}
+}

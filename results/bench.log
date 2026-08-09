@@ -1,0 +1,6 @@
+synced puts: 41826 ops/s
+unsynced puts: 659114 ops/s
+get memtable: 6938722 ops/s (0.14 us avg)
+get l0: 151629 ops/s (6.60 us avg)
+get l1: 150879 ops/s (6.63 us avg)
+recovery: 100000 WAL records in 0.034 s

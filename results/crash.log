@@ -1,0 +1,32 @@
+round  0: killed after 155 ms,   3931 acked ops,  2629 keys verified OK
+round  1: killed after 412 ms,  10126 acked ops,  6812 keys verified OK
+round  2: killed after 407 ms,   9426 acked ops,  6351 keys verified OK
+round  3: killed after 140 ms,   4492 acked ops,  3065 keys verified OK
+round  4: killed after 116 ms,   3767 acked ops,  2547 keys verified OK
+round  5: killed after 388 ms,   9622 acked ops,  6411 keys verified OK
+round  6: killed after 120 ms,   3583 acked ops,  2426 keys verified OK
+round  7: killed after 217 ms,   5973 acked ops,  4038 keys verified OK
+round  8: killed after  47 ms,   1780 acked ops,  1270 keys verified OK
+round  9: killed after 221 ms,   6087 acked ops,  4127 keys verified OK
+round 10: killed after 257 ms,   7217 acked ops,  4843 keys verified OK
+round 11: killed after  44 ms,   1663 acked ops,  1180 keys verified OK
+round 12: killed after 423 ms,  10306 acked ops,  6851 keys verified OK
+round 13: killed after 371 ms,   9125 acked ops,  6158 keys verified OK
+round 14: killed after  80 ms,   2599 acked ops,  1764 keys verified OK
+round 15: killed after 275 ms,   7173 acked ops,  4917 keys verified OK
+round 16: killed after  68 ms,   2406 acked ops,  1643 keys verified OK
+round 17: killed after 252 ms,   6722 acked ops,  4568 keys verified OK
+round 18: killed after 354 ms,   9175 acked ops,  6270 keys verified OK
+round 19: killed after 161 ms,   4823 acked ops,  3225 keys verified OK
+round 20: killed after 238 ms,   6630 acked ops,  4512 keys verified OK
+round 21: killed after 233 ms,   6361 acked ops,  4295 keys verified OK
+round 22: killed after 114 ms,   3632 acked ops,  2488 keys verified OK
+round 23: killed after 151 ms,   4479 acked ops,  3012 keys verified OK
+round 24: killed after  69 ms,   2371 acked ops,  1629 keys verified OK
+round 25: killed after 343 ms,   8869 acked ops,  5884 keys verified OK
+round 26: killed after 405 ms,  10048 acked ops,  6694 keys verified OK
+round 27: killed after 153 ms,   4879 acked ops,  3292 keys verified OK
+round 28: killed after 126 ms,   4008 acked ops,  2777 keys verified OK
+round 29: killed after 294 ms,   7735 acked ops,  5241 keys verified OK
+
+30/30 rounds clean, 179008 acked ops total
